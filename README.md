@@ -13,8 +13,8 @@ Thus, it becomes difficult for a buyer or a seller in Ghaziabad to analyze the d
 The aim of the project is –
 v	To analyze the properties in Ghaziabad for different regions, based on parameters such as number of rooms , size , bathrooms etc. From different websites and then scraping relevant information from them to form a Robust dataset. 
  
-v	To successfully apply Data Science tools to refine the dataset further in order to achieve consistency in the data.
+*	To successfully apply Data Science tools to refine the dataset further in order to achieve consistency in the data.
 
-v	To implement the Machine Learning and finding the best regression model by successfully feeding the dataset to the program.
+*	To implement the Machine Learning and finding the best regression model by successfully feeding the dataset to the program.
  
-v	To deliver a user-friendly website which would predict the price of property based on the features specified by the user.
+*	To deliver a user-friendly website which would predict the price of property based on the features specified by the user.
