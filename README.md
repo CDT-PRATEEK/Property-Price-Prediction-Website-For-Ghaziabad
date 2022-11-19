@@ -11,7 +11,8 @@ Thus, it becomes difficult for a buyer or a seller in Ghaziabad to analyze the d
 ### OBJECTIVES 
  
 The aim of the project is –
-v	To analyze the properties in Ghaziabad for different regions, based on parameters such as number of rooms , size , bathrooms etc. From different websites and then scraping relevant information from them to form a Robust dataset. 
+
+*	To analyze the properties in Ghaziabad for different regions, based on parameters such as number of rooms , size , bathrooms etc. From different websites and then scraping relevant information from them to form a Robust dataset. 
  
 *	To successfully apply Data Science tools to refine the dataset further in order to achieve consistency in the data.
 
