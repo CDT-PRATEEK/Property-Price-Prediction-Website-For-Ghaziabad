@@ -1,4 +1,4 @@
-# Property-Price-Prediction-For-Ghaziabad
+# Property-Price-Prediction-Website-For-Ghaziabad
 Property price prediction using data science and Machine learning
 ## PROBLEM STATEMENT
 
