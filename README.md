@@ -1,3 +1,5 @@
+
+![Screenshot 2023-12-15 214107](https://github.com/user-attachments/assets/70a86405-bd97-4cf6-9f04-67e5c62b0a98)
 # Property-Price-Prediction-Website-For-Ghaziabad
 Property price prediction using data science and Machine learning
 ## PROBLEM STATEMENT
@@ -15,6 +17,7 @@ The aim of the project is –
 *	To analyze the properties in Ghaziabad for different regions, based on parameters such as number of rooms , size , bathrooms etc. From different websites and then scraping relevant information from them to form a Robust dataset. 
  
 *	To successfully apply Data Science tools to refine the dataset further in order to achieve consistency in the data.
+
 
 *	To implement the Machine Learning and finding the best regression model by successfully feeding the dataset to the program.
  
